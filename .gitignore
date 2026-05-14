@@ -1,15 +1,41 @@
+# Built artifacts
+build/
+.gradle/
+/bin
+/gen
+/out
+
+# IDE files
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+*.iws
+*.ipr
+
+# Local configuration
 local.properties
+
+# Log files
+*.log
+
+# Android Studio Captures
+captures/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# External Native Build
+.externalNativeBuild
+.cxx/
+
+# Keystore files (Safety: NEVER commit these)
+*.jks
+*.keystore
+*.p12
+
+# Room schema exports
+schemas/
+
+# Gradle Wrapper
+!gradle-wrapper.jar
