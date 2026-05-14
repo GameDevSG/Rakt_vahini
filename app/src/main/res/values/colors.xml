@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette -->
+    <color name="primary_pink">#F8BBD0</color>
+    <color name="primary_pink_dark">#F06292</color>
+    <color name="soft_red">#FFCDD2</color>
+    <color name="background_soft">#FFF5F7</color>
+    <color name="success_green">#E8F5E9</color>
+    <color name="text_success">#2E7D32</color>
+    <color name="text_dark">#4A4A4A</color>
+    <color name="text_medium">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+    <color name="divider_color">#F5F5F5</color>
+    <color name="border_light">#EEEEEE</color>
+
+    <!-- Material 3 Mappings -->
+    <color name="primary">@color/primary_pink</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#FFD8E4</color>
+    <color name="on_primary_container">#3B0B1D</color>
+
+    <color name="secondary">@color/soft_red</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#FFE9EA</color>
+    <color name="on_secondary_container">#410002</color>
+
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">@color/text_dark</color>
+    <color name="surface_variant">#F2DEE3</color>
+    <color name="on_surface_variant">#514347</color>
+
+    <color name="background">@color/background_soft</color>
+    <color name="on_background">@color/text_dark</color>
+
+    <color name="error">#BA1A1A</color>
+    <color name="on_error">#FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

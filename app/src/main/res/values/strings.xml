@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Rakt-Vahini</string>
+    <string name="tagline">Every Drop Counts ❤️</string>
+    <string name="welcome_description">A community of life savers.\nBe a hero. Donate blood.</string>
+    <string name="find_blood">Find Blood</string>
+    <string name="register_as_donor">Register as Donor</string>
+
+    <!-- Registration Screen -->
+    <string name="donor_registration">Donor Registration</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="label_blood_group">Blood Group</string>
+    <string name="label_location">Location</string>
+    <string name="label_phone_number">Phone Number</string>
+    <string name="label_last_donation">Last Donation Date</string>
+    <string name="label_ready_to_donate">I am ready to donate</string>
+    <string name="ready_to_donate_desc">Toggle if you are available to donate.</string>
+    <string name="btn_register">Register</string>
+
+    <!-- Search Screen -->
+    <string name="find_donors">Find Blood</string>
+    <string name="search_donors_desc">Search for eligible donors near you and save lives.</string>
+    <string name="label_search_radius">Search Radius</string>
+    <string name="label_your_location">Your Location</string>
+    <string name="btn_search_donors">Search Donors</string>
+    <string name="search_helper">Donors will be shown based on their readiness status.</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_profile">Profile</string>
+</resources>
